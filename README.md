@@ -1,78 +1,99 @@
-# Olá, eu sou Israel 👋
+# Israel Pereira
 
-Desenvolvedor apaixonado por criar aplicações, ferramentas e soluções utilizando tecnologia.
+**Software Developer | QA Engineer | Python | Java | React | FastAPI**
 
-Atualmente focado em desenvolvimento backend, aplicações web e automação.
+Profissional de tecnologia com experiência em desenvolvimento de software, qualidade de sistemas e construção de aplicações web.
+
+Atualmente focado em desenvolvimento backend, aplicações Full Stack, automação e criação de soluções utilizando Python, Java, React e APIs REST.
+
+Tenho experiência com desenvolvimento de sistemas, testes de software, integração entre aplicações e construção de projetos próprios utilizando tecnologias modernas.
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
 ### 🎮 QuizeZ
 
-Sistema multiplayer de perguntas e respostas em tempo real.
+Plataforma multiplayer de perguntas e respostas em tempo real.
 
-Tecnologias:
+Projeto Full Stack desenvolvido utilizando arquitetura cliente-servidor, comunicação em tempo real via WebSocket e integração com inteligência artificial local para geração de conteúdo.
 
-- Python
-- FastAPI
-- React
-- WebSockets
-- SQLAlchemy
-- SQLite
-- Ollama / Mistral AI
+**Tecnologias:**
+
+* Python
+* FastAPI
+* React
+* WebSockets
+* SQLAlchemy
+* SQLite
+* Ollama / Mistral AI
 
 ---
 
 ### 🖥️ FrameInsight
 
-Overlay de monitoramento de performance para jogos Windows.
+Ferramenta de monitoramento de performance para jogos Windows com coleta de métricas em tempo real.
 
-Funcionalidades:
+Aplicação desenvolvida para análise de desempenho, exibindo informações de hardware e métricas gráficas durante a execução de jogos.
 
-- FPS em tempo real
-- Frametime
-- 1% Low FPS
-- CPU/GPU monitoring
-- Temperatura da GPU
+**Funcionalidades:**
 
-Tecnologias:
+* Monitoramento de FPS em tempo real
+* Frametime
+* 1% Low FPS
+* Monitoramento de CPU e GPU
+* Temperatura da GPU
 
-- Python
-- Tkinter
-- NVIDIA NVML
-- PresentMon
+**Tecnologias:**
+
+* Python
+* Tkinter
+* NVIDIA NVML
+* PresentMon
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
-### Backend
+## Backend
 
-- Python
-- FastAPI
-- Java
-- SQLAlchemy
-- REST APIs
+* Python
+* FastAPI
+* Java
+* REST APIs
+* SQLAlchemy
 
-### Frontend
+## Frontend
 
-- React
-- JavaScript
-- HTML
-- CSS
+* React
+* JavaScript
+* HTML5
+* CSS3
 
-### Outros
+## Banco de Dados
 
-- Git
-- WebSockets
-- SQLite
-- Linux/Windows
-- IA Local
+* SQLite
+* SQL
+
+## Qualidade de Software
+
+* Testes Funcionais
+* Validação de Sistemas
+* Automação de Testes
+* QA
+
+## Ferramentas e Outros
+
+* Git
+* WebSockets
+* Linux
+* Windows
+* Inteligência Artificial Local
 
 ---
 
 ## 📫 Contato
 
-GitHub:https://github.com/Dracieu
-email: Israel_plj@hotmail.com
+GitHub: https://github.com/Dracieu
+
+Email: [Israel_plj@hotmail.com](mailto:Israel_plj@hotmail.com)
